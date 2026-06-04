@@ -1,4 +1,3 @@
-[![logo-juandev.png](https://i.postimg.cc/7Pndyv3v/logo-juandev.png)](https://postimg.cc/w330hG4F)
 <div align="center">
 <h2>Hola, Me Llamo Juan</h2>
 
