@@ -1,75 +1,132 @@
 <div align="center">
-<h2>Hola, Me Llamo Juan</h2>
 
-<a href="https://linkedin.com/in/juanfer217" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "juanfer2177@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-</div>
-<br>
- 
-<h2>👨🏻‍💻 Sobre Mi</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Juan%20Fernando%20Jaramillo&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
-🎓 &nbsp;Actualmente estoy estudiando Ingeneria de Sistemas en la Universidad Mariana.\
-🌱 &nbsp;Estoy en camino de aprender más sobre Desarrollo Web..\
-✉️ &nbsp;¡Puedes escribirme un correo electrónico a juanfer2177@gmail.com! Intentaré responder tan pronto como pueda.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
-<br><br>
+# 👨‍💻 Desarrollador Full Stack Junior
 
+### Estudiante de Ingeniería de Sistemas | Universidad Mariana
 
-<h2> 🛠 Tecnologias Conocidas</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,git,github&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,php&perline=3)](https://skillicons.dev)
-
-<br>
-
-<h2>⚙️GitHub :octocat:</h2>
-<p align="center">
-<a href="https://github.com/juanfer217">
-  <img height="180em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juanfer217&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juanfer217&layout=compact&langs_count=8&theme=algolia"/>
+<p>
+<a href="https://linkedin.com/in/juanfer217">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="mailto:juanfer2177@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/juanfer217">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
-<br>
 
-<h2>Proyectos</h2>
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://antarticadrinks.up.railway.app/" title="Go to Source">
-        <img align="center" width=100% src="https://ibb.co/NdtLv6Yx"   alt="Proyecto" /></a>
-      </p>
-    <p align="center">AntarticaDrinks</p>
-    <p align="center">
-        <a href="https://antarticadrinks.up.railway.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Sitio-FF0000?style=for-the-badge&logoColor=white" alt="@juandev" /></a>
-      <a href="https://github.com/juanfer217/sistema-ventas-antarticadrinks" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@juandev"/></a>
-    </p>       
-</td>
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://frontendstore-juandev.netlify.app/" title="Go to Source">
-        <img align="center" width=100% src="https://i.postimg.cc/R0tps2SD/Fron-End-Store.png"   alt="Proyecto" /></a>
-      </p>
-  <p align="center" >FrontEndStore</p>
-    <p align="center">
-        <a href="https://frontendstore-juandev.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Sitio-FF0000?style=for-the-badge&logoColor=white" alt="@juandev" /></a>
-      <a href="https://github.com/juanfer217/FrontEndStore" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@juandev" /></a>
-    </p>       
-</td>
-  
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="#" title="Go to Source">
-        <img align="center" width=100% src="#"   alt="Proyecto" /></a>
-      </p>
-    <p align="center" >QueMini</p>
-    <p align="center">
-        <a href="https://quemini.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Sitio-FF0000?style=for-the-badge&logoColor=white" alt="@juandev" /></a>
-      <a href="https://github.com/juanfer217/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@juandev" /></a>
-    </p>       
-</td>
+<img src="https://komarev.com/ghpvc/?username=juanfer217&label=Visitas&color=2563EB&style=for-the-badge"/>
 
-</tr>
-</table>
+</div>
+
+---
+
+# 🚀 Sobre Mí
+
+  <p>Ubicacion: Pasto, Colombia</p>
+  <p>Carrera: Ingeniería de Sistemas</p>
+  <p>Universidad: Universidad Mariana</p>
+
+
+  <p>Estado: Buscando crecer profesionalmente 🚀</p>
+
+---
+
+# ⚡ Tecnologías
+
+### 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=angular,ts,javascript,html,css&theme=dark"/>
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel&theme=dark"/>
+</p>
+
+### 🗄️ Base de Datos
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+</p>
+
+### 🔧 Herramientas
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+</p>
+
+---
+
+# 📈 Estadísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanfer217&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfer217&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Racha de Contribuciones
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juanfer217&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 Logros GitHub
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=juanfer217&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌐 Portafolio
+
+<div align="center">
+
+### Explora mis proyectos y experiencia
+
+<a href="https://TU-PORTAFOLIO.vercel.app">
+<img src="https://img.shields.io/badge/🚀%20VER%20PORTAFOLIO-2563EB?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 📚 Actualmente Aprendiendo
+
+<p align="center">
+
+🅰️ Angular Avanzado  
+⚙️ Node.js  
+🗄️ Bases de Datos
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "El mejor momento para aprender fue ayer. El segundo mejor momento es hoy."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
+</div>
