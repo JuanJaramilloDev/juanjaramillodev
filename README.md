@@ -15,10 +15,6 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/juanfer217">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=juanfer217&label=Visitas&color=2563EB&style=for-the-badge"/>
