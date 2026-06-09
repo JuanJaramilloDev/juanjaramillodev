@@ -90,7 +90,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juanfer217&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjaramillodev&theme=tokyonight"/>
 
 </div>
 
